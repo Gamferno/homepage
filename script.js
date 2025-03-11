@@ -64,8 +64,8 @@ function updateDate() {
 
 updateDate();
 
-// const apiKey = "30d9c4789f4475e6beff792067530863";
-const apiKey = process.env.API_KEY;
+const apiKey = "30d9c4789f4475e6beff792067530863";
+
 console.log(apiKey);
 
 const city = "Ghaziabad"; // Change this to your city
